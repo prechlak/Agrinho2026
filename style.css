@@ -1,0 +1,23 @@
+body {
+    background: rgb(37, 37, 37);
+}
+header {
+    background-color: rgb(19, 19, 19);
+    border: 1px solid, greenyellow;
+    margin: -1rem;
+    padding: 0.1%;
+}
+header h1 {
+    color: rgb(88, 252, 101);
+    text-align: center;
+}
+nav ul {
+    flex-direction: column;
+    text-align: center;
+    list-style: none;
+    gap: 20px;
+}
+.imagem-intro {
+    background-image: url(Imagens/Gemini_Generated_Image_fe43brfe43brfe43.png);
+    width: 100%;
+}
